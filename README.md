@@ -1,4 +1,4 @@
-# Graph-Based ANNS Indexes of High-Dimensional Vectors (COMP5311 Project)
+# COMP5311 Survey Report
 
 This repository contains the survey paper titled "Graph-Based ANNS Indexes of High-Dimensional Vectors," completed for the **COMP5311 Database Architecture and Implementation** course at the Hong Kong University of Science and Technology (HKUST) during the 2024-2025 Spring semester. 
 
